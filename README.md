@@ -10,8 +10,9 @@ This repository implements the methods presented in our AAAI 2024 paper:
 The core idea is to condition the policy on a generalized risk parameter,  
 enabling a single agent to adapt its behavior across any weighted value-at-risk measures—e.g., CVaR, Wang, CPW, and Power.
 ## NOTE
-migrated from dm-Haiku to flax.nnx 
-Rest in peace, dm-haiku 🪦😔
+migrated from dm-Haiku to flax.nnx.
+
+Rest in peace, dm-haiku. 🪦😔
 
 ## How to Use
 
