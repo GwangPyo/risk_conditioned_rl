@@ -1,1 +1,1 @@
-from grips.model import GRIPS
+from risk_sensitive_rl.grips.model import GRIPS
